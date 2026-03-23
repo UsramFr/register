@@ -5,7 +5,7 @@
   "owner": {
     "username": "UsramFr"
   },
-  "record": {
+  "records": {
     "NS": [
       "aria.ns.cloudflare.com",
       "remy.ns.cloudflare.com"
