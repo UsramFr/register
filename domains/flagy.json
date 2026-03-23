@@ -1,7 +1,6 @@
 {
   "$schema": "../schemas/domain.schema.json",
   "description": "homelab",
-  "domain": "flagy",
   "owner": {
     "username": "UsramFr"
   },
