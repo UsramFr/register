@@ -1,11 +1,11 @@
 {
   "$schema": "../schemas/domain.schema.json",
-  "description": "Homelab self-hosted infrastructure (Home Assistant, Portainer, Cloudflare Tunnel)",
+  "description": "Homelab self-hosted infrastructure (Home Assistant, Portainer, NPM reverse proxy)",
   "owner": {
     "username": "UsramFr",
     "email": "christophe@trillot.fr"
   },
   "records": {
-    "CNAME": "ced0f50b-ec7d-4a7b-8431-8a14fa0f2685.cfargotunnel.com"
+    "A": ["82.64.132.26"]
   }
 }
